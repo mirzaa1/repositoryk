@@ -11,5 +11,4 @@ belajar Github
 - oooooo
 
 [adi](https://www.markdownguide.org/cheat-sheet/)
-
-![sepuh](https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F114%2F337%2Fpng-clipart-microsoft-powerpoint-presentation-slide-presentation-program-slide-show-ppt-box-angle-text.png&tbnid=wPw12cP1uWSOtM&vet=12ahUKEwiY-_icmcOCAxUM5zgGHW_bDuQQMygDegQIARBY..i&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-bzysn&docid=YZ8kuZuooHJ__M&w=900&h=900&q=logo%20powerpoint%20png&ved=2ahUKEwiY-_icmcOCAxUM5zgGHW_bDuQQMygDegQIARBY)
+![popon](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0d%2FMicrosoft_Office_PowerPoint_%25282019%25E2%2580%2593present%2529.svg%2F512px-Microsoft_Office_PowerPoint_%25282019%25E2%2580%2593present%2529.svg.png%3F20210821050414&tbnid=uImtc0aRORJreM&vet=12ahUKEwiSxpHNmcOCAxWO5zgGHXlRAI8QMygAegQIARBH..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMicrosoft_Office_PowerPoint_(2019%25E2%2580%2593present).svg&docid=Mbld_NsRi989iM&w=512&h=476&q=logo%20powerpoint%20png%20or%20jpg&ved=2ahUKEwiSxpHNmcOCAxWO5zgGHXlRAI8QMygAegQIARBH)
